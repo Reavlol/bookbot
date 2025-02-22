@@ -1,2 +1,4 @@
 # bookbot
-A bot to produce a word count and count of each character
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
